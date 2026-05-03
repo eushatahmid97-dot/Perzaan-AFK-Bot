@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "sametoyouMC.aternos.me",
-    "port": 34588,
-    "version": "1.21.1"
+    "ip": "PlaybackMC.aternos.me",
+    "port": 32442,
+    "version": "1.21.8"
   },
   "position": {
     "enabled": true,
